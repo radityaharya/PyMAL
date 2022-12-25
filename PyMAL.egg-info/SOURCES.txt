@@ -1,0 +1,16 @@
+README.md
+setup.cfg
+setup.py
+PyMAL/__init__.py
+PyMAL/auth.py
+PyMAL/client.py
+PyMAL/rest_adapter.py
+PyMAL/util.py
+PyMAL.egg-info/PKG-INFO
+PyMAL.egg-info/SOURCES.txt
+PyMAL.egg-info/dependency_links.txt
+PyMAL.egg-info/requires.txt
+PyMAL.egg-info/top_level.txt
+PyMAL/modules/__init__.py
+PyMAL/modules/anime.py
+PyMAL/modules/user.py
